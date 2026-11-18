@@ -1,0 +1,6 @@
+Rank,Feature,Available_Case_Mean_Difference,Median_Imputed_Mean_Difference,Available_Case_Bootstrap_Mean,Available_Case_CI_Lower,Available_Case_CI_Upper,Median_Imputed_Bootstrap_Mean,Median_Imputed_CI_Lower,Median_Imputed_CI_Upper,Absolute_Change_In_Mean_Difference
+1,Feature_226,34.517706,35.939742,35.023616,-56.544555,129.92346,36.457354,-53.82237,130.086797,1.422037
+2,Feature_446,0.021406,0.021402,0.021768,-0.004678,0.045953,0.021764,-0.00468,0.045944,4e-06
+3,Feature_45,-0.016289,-0.016291,-0.016313,-0.046436,0.013859,-0.016315,-0.046437,0.013858,2e-06
+4,Feature_367,0.000122,0.000123,0.000125,-0.000303,0.000593,0.000126,-0.000302,0.000594,1e-06
+5,Feature_224,-0.236617,-0.236617,-0.317647,-7.442417,6.895386,-0.317647,-7.442417,6.895386,0.0
